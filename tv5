@@ -1,0 +1,313 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="CLUBTV_Eventos", EVENTO 01
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Eventos&canal=EVENTO_01&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="CLUBTV_Eventos", EVENTO 02
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Eventos&canal=EVENTO_02&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="CLUBTV_Eventos", EVENTO 04
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Eventos&canal=EVENTO_04&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="CLUBTV_Eventos", EVENTO 05
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Eventos&canal=EVENTO_05&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="CLUBTV_Infantil", Cartoon Network
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=CARTOON_NETWORK&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="CLUBTV_Infantil", Disney Channel
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=DISNEY_CHANNEL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="CLUBTV_Infantil", Disney Jr
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=DISNEY_JUNIOR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="CLUBTV_Infantil", Discovery Kids
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=DISCOVERY_KIDS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="CLUBTV_Infantil", Nick
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=NICK&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="CLUBTV_Infantil", Nick Jr
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=NICK_JR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="CLUBTV_Infantil", Tooncast
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=TOONCAST&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="CLUBTV_Infantil", Bitme
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=BITME&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="CLUBTV_Infantil", Cartoonito
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=CARTOONITO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="CLUBTV_Infantil", EnerGeek Retro
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Infantil&canal=ENERGEEK_RETRO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="CLUBTV_Mundo", CNN en Español
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=CNN_ESPANOL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="CLUBTV_Mundo", RT en Español
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=RT_ESPANOL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="CLUBTV_Mundo", Lifetime
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=LIFETIME&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="CLUBTV_Mundo", ADN40
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=ADN40&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="CLUBTV_Mundo", RCN
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=RCN&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="CLUBTV_Mundo", Telefe
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=TELEFE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="CLUBTV_Mundo", HolaTV
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=HOLATV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="CLUBTV_Mundo", Las Estrellas
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=LAS_ESTRELLAS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="CLUBTV_Mundo", Canal E!
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=CANAL_E&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="CLUBTV_Mundo", Caracol TV
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=CARACOLTV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="CLUBTV_Mundo", Telemundo
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=TELEMUNDO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="CLUBTV_Mundo", Azteca7
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=AZTECA7&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png" group-title="CLUBTV_Mundo", Univision
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=UNIVISION&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="CLUBTV_Mundo", Antena 3
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=ANTENA3&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skzoiz9.png" group-title="CLUBTV_Mundo", Azteca Uno
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=AZTECA_UNO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2SXEFp.png" group-title="CLUBTV_Mundo", DW en Español
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Mundo&canal=DW_Spanish&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="CLUBTV_Cultura", Food Network
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=FOOD_NETWORK&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="CLUBTV_Cultura", Discovery Channel
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_CHANNEL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="CLUBTV_Cultura", Discovery Theater
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_THEATER&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="CLUBTV_Cultura", Discovery World
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_WORLD&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="CLUBTV_Cultura", Discovery Turbo
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_TURBO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="CLUBTV_Cultura", Discovery Sciences
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_SCIENCES&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="CLUBTV_Cultura", Discovery ID
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_ID&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="CLUBTV_Cultura", Discovery H&H
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_HH&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="CLUBTV_Cultura", History Channel
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=HISTORY&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="CLUBTV_Cultura", H2
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=H2&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="CLUBTV_Cultura", National Geographic
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=NATGEO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="CLUBTV_Cultura", A&E
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=A_E&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="CLUBTV_Cultura", Animal Planet
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=ANIMAL_PLANET&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="CLUBTV_Cultura", El Gourmet
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=EL_GOURMET&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="CLUBTV_Cultura", TLC
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=TLC&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="CLUBTV_Cultura", ComedyCentral
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=COMEDYCENTRAL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="CLUBTV_Cultura", Distrito Comedia
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISTRITO_COMEDIA&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCegFzr.png" group-title="CLUBTV_Cultura", Love Nature
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=LOVE_NATURE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="CLUBTV_Cultura", TLNovelas
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=TLNovelas&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo2QbJT.png" group-title="CLUBTV_Cultura", Discovery Familia
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=DISCOVERY_FAMILIA&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u14ElrR.png" group-title="CLUBTV_Cultura", HGTV
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Cultura&canal=HGTV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="CLUBTV_Entretenimiento", Star Channel
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=STAR_CHANNEL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="CLUBTV_Entretenimiento", Universal TV
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=UNIVERSAL_TV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="CLUBTV_Entretenimiento", Warner TV
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=WARNER_TV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="CLUBTV_Entretenimiento", AXN
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=AXN&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="CLUBTV_Entretenimiento", Paramount
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=PARAMOUNT&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="CLUBTV_Entretenimiento", Studio Universal
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=STUDIO_UNIVERSAL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="CLUBTV_Entretenimiento", FX
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=FX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="CLUBTV_Entretenimiento", TBS
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=TBS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="CLUBTV_Entretenimiento", TNT
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=TNT&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="CLUBTV_Entretenimiento", TNT Series
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=TNT_SERIES&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="CLUBTV_Entretenimiento", Cinemax
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=CINEMAX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="CLUBTV_Entretenimiento", Sony
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=SONY&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kp7HMZ.png" group-title="CLUBTV_Entretenimiento", DePelicula
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=DEPELICULA&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="CLUBTV_Entretenimiento", Cinecanal
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=CINECANAL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="CLUBTV_Entretenimiento", HBO
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="CLUBTV_Entretenimiento", HBO 2
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO_2&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="CLUBTV_Entretenimiento", HBO +
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO_PLUS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="CLUBTV_Entretenimiento", HBO Mundi
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO_MUNDI&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="CLUBTV_Entretenimiento", HBO Pop
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO_POP&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="CLUBTV_Entretenimiento", HBO Signature
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO_SIGNATURE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="CLUBTV_Entretenimiento", HBO Xtreme
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO_XTREME&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="CLUBTV_Entretenimiento", HBO Family
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=HBO_FAMILY&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CLUBTV_Entretenimiento", Golden
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=GOLDEN&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CLUBTV_Entretenimiento", Golden Edge
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=GOLDEN_EDGE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CLUBTV_Entretenimiento", Golden Premier
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=GOLDEN_PREMIER&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CLUBTV_Entretenimiento", Golden Plus
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=GOLDEN_PLUS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="CLUBTV_Entretenimiento", AMC
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=AMC&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="CLUBTV_Entretenimiento", SPACE
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=SPACE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="CLUBTV_Entretenimiento", Universal Premiere
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=UNIVERSAL_PREMIERE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1Bjuah.png" group-title="CLUBTV_Entretenimiento", Universal Reality
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=UNIVERSAL_REALITY&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNg0khT.png" group-title="CLUBTV_Entretenimiento", Universal Crime
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=UNIVERSAL_CRIME&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0qhNqu.png" group-title="CLUBTV_Entretenimiento", Universal Comedy
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=UNIVERSAL_COMEDY&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="CLUBTV_Entretenimiento", SYFY
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Entretenimiento&canal=SYFY&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="CLUBTV_Musica", MTV
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=MTV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="CLUBTV_Musica", MTV Hits
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=MTV_HITS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="CLUBTV_Musica", MTV Live
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=MTV_LIVE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="CLUBTV_Musica", MTV Classic
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=MTV_CLASSIC&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" group-title="CLUBTV_Musica", Bandamax
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=BANDAMAX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="CLUBTV_Musica", Nick Music
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=NICK_MUSIC&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="CLUBTV_Musica", Retro Plus 1
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=RETRO_PLUS_1&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="CLUBTV_Musica", Retro Plus 2
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=RETRO_PLUS_2&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="CLUBTV_Musica", Retro Plus 3
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=RETRO_PLUS_3&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/imgs/CCPRadio.jpg" group-title="CLUBTV_Musica", CCP Radio
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=ENERGEEK_CCP_RADIO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="CLUBTV_Musica", EnerGeek Radio
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=ENERGEEK_RADIO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="CLUBTV_Musica", Telehit
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=TELEHIT&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="CLUBTV_Musica", TopLatino
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=TOPLATINO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="CLUBTV_Musica", MTV 00s
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=MTV_00s&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFIJcnS.png" group-title="CLUBTV_Musica", Venus Media Music
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Musica&canal=VENUS_MEDIA&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="CLUBTV_Deportes", TUDN
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=TUDN&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="CLUBTV_Deportes", Afizzionados
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=AFIZZIONADOS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jb1eOCi.jpg" group-title="CLUBTV_Deportes", Claro Sports
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=CLARO_SPORTS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="CLUBTV_Deportes", GolTV
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=GOLTV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="CLUBTV_Deportes", Directv
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=DIRECTV&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="CLUBTV_Deportes", Directv 2
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=DIRECTV_2&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="CLUBTV_Deportes", Directv +
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=DIRECTV_PLUS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="CLUBTV_Deportes", GolPeru
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=GOLPERU&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZWckwd.jpg" group-title="CLUBTV_Deportes", ESPN Premium
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_PREMIUM&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="CLUBTV_Deportes", ESPN 1 MX
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_MX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="CLUBTV_Deportes", ESPN 2 MX
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_2_MX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="CLUBTV_Deportes", ESPN 3 MX
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_3_MX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMt4skq.jpg" group-title="CLUBTV_Deportes", Fox Sports 1 MX
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_MX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ammdun.jpg" group-title="CLUBTV_Deportes", Fox Sports 2 MX
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_2_MX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udvy1ea.jpg" group-title="CLUBTV_Deportes", Fox Sports 3 MX
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_3_MX&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="CLUBTV_Deportes", ESPN 1 Sur
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="CLUBTV_Deportes", ESPN 2 Sur
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_2_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="CLUBTV_Deportes", ESPN 3 Sur
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_3_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMt4skq.jpg" group-title="CLUBTV_Deportes", Fox Sports 1 Sur
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ammdun.jpg" group-title="CLUBTV_Deportes", Fox Sports 2 Sur
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_2_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udvy1ea.jpg" group-title="CLUBTV_Deportes", Fox Sports 3 Sur
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_3_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ket43aS.png" group-title="CLUBTV_Deportes", Bein Sports
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=BEING_SPORTS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJAi2ms.png" group-title="CLUBTV_Deportes", Win Sports
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=WIN_SPORTS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfB4pUd.png" group-title="CLUBTV_Deportes", Win Sports +
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=WIN_SPORTS_PLUS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.png" group-title="CLUBTV_Deportes", ESPN Extra
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_EXTRA&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="CLUBTV_Deportes", TyC Sports
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=TYC_SPORTS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" group-title="CLUBTV_Deportes", WWE & WWF
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=WWE_WWF&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" group-title="CLUBTV_Deportes", ESPN 4
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN4&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="CLUBTV_Deportes", NFL Channel
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=NFL_CHANNEL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="CLUBTV_Deportes", TNT Sports BR
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=TNTSPORTS_BR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZ5pR4M.png" group-title="CLUBTV_Deportes", Fox Sports Premium
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOXSPORTS_PREMIUM&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.png" group-title="CLUBTV_Deportes", ESPN Deportes 
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=ESPN_DEPORTES&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNmshjf.png" group-title="CLUBTV_Deportes", BeinSports Extra Ñ
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=BEINSPORTS_EXTRA&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="CLUBTV_Deportes", TNT Sports
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=TNT_SPORTS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kRxbN72.png" group-title="CLUBTV_Deportes", El Canal del Futbol
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=EL_CANAL_DEL_FUTBOL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7Csa8G.png" group-title="CLUBTV_24_7", Principe del Rap
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=PRINCIPE_DEL_RAP&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcfLruN.png" group-title="CLUBTV_24_7", Correcaminos
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=CORRECAMINOS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkxGND0.png" group-title="CLUBTV_24_7", Dinosaurios
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=DINOSAURIOS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wSQ95AD.png" group-title="CLUBTV_24_7", Ben 10
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=BEN_10&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTGEBdg.png" group-title="CLUBTV_24_7", Los Pitufos
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=SIMPSONS_247&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FS44Hp0.png" group-title="CLUBTV_24_7", Dragon Ball
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=DRAGON_BALL&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kpP4ARk.png" group-title="CLUBTV_24_7", South Park
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=SOUTH_PARK&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xX3Ksnj.png" group-title="CLUBTV_24_7", ALF
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=ALF&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JquJMTJ.png" group-title="CLUBTV_24_7", Familia Peluche
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=FAMILIA_PELUCHE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZGBqhd.png" group-title="CLUBTV_24_7", Chavo del 8
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=CHAVO_8&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGK5VS.png" group-title="CLUBTV_24_7", CHESPIRITO
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=CHESPIRITO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLgiV4Y.png" group-title="CLUBTV_24_7", Don Gato y su Pandilla
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=DON_GATO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0lPshk.png" group-title="CLUBTV_24_7", Mi Bella Genio
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=BELLA_GENIO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izriGGO.png" group-title="CLUBTV_24_7", El Chapulin Colorado
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=CHAPULIN_COLORADO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2xKu4B.png" group-title="CLUBTV_24_7", Digimon
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=DIGIMON&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="CLUBTV_24_7", Terror 24/7
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=TERROR_247&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePRV57v.png" group-title="CLUBTV_24_7", LOONEY TOONS
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=LOONEYTOONS_247&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jylQ77z.png" group-title="CLUBTV_24_7", Alerta Aeropuerto
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=ALERTA_AEROPUERTO&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="CLUBTV_24_7", La Rosa de Guadalupe
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=LAROSA_DEGUADALUPE&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3KJSUO.png" group-title="CLUBTV_24_7", Padre de Familia
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=PADRE_DE_FAMILIA&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CWFgnoI.png" group-title="CLUBTV_24_7", Los Simpsons
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=LOS_SIMPSONS&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/it1OidM.png" group-title="CLUBTV_24_7", Doraemon
+http://rabanito.crabdance.com:8081/clubtv.php?cat=24_7&canal=DORAEMON&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
