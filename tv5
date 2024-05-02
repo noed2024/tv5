@@ -17,3 +17,13 @@ http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/65648
 http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/65648
 #EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="ARGENTINA",ARG | ESPN 3
 http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/65648
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="ESPN DEPORTES" tvg-logo="http://pbs.twimg.com/media/EqNf1TjXAAA5BMi.png" group-title="ESPN PACK",ESPN DEPORTES
+http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/22067
+#EXTINF:-1 tvg-id="612dts2.cl" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LIGA ESPAÑOLA",DIRECTV SPORTS 2
+http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/350
+#EXTINF:-1 tvg-id="612dts2.cl" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 2
+http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/350
+#EXTINF:-1 tvg-id="201odtv.cl" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LIGA ESPAÑOLA",DIRECTV SPORTS 1
+http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/351
+#EXTINF:-1 tvg-id="201odtv.cl" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 1
+http://gotv.vip:8880/zgGWA76ntgpre1ok/XmCz7sTxNx/351
